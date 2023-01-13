@@ -1,6 +1,8 @@
 # legendary-octo-spoon
 Generate valid IPs by country.
-Generates all possible public IPs and writes them into a file or prints them in the stdout written in go  
+Generates all possible public IPs and writes them into a file or prints them in the stdout written in go.
+
+
 ⚠️Warning⚠️ Output file will be 52Gb!
 ## Usage
 ```
